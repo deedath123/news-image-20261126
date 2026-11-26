@@ -1,8 +1,8 @@
 # news-image-20261126 — The World Today, Thursday 26 November 2026
 
-[![reward $100 USDC](https://img.shields.io/badge/reward-%24100%20USDC-green)](https://make.fun/bounty/news-image-20261126)
-[![make.fun bounty](https://img.shields.io/badge/bounty-make.fun-blue)](https://make.fun/bounty/news-image-20261126)
-[![MIT license](https://img.shields.io/github/license/deedath123/news-image-20261126)](LICENSE)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/deedath123/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/deedath123/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 Entry for make.fun's [news-image-20261126](https://make.fun/bounty/news-image-20261126)
 bounty: *Sum up 26 November's world news in one image*. An AI judge compares
